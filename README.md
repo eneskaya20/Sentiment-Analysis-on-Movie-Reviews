@@ -1,5 +1,5 @@
 # Sentiment-Analysis-on-Movie-Reviews
-![image](https://github.com/eneskaya20/Sentiment-Analysis-on-Movie-Reviews/assets/72800099/d8b12a28-a367-421d-a76d-44f9ef4386d8)
+![image](https://github.com/eneskaya20/Sentiment-Analysis-on-Movie-Reviews/assets/72800099/3b4fe151-7633-42f3-9a5f-6f7c9b700222)
 
 
 This repository contains code and documentation for a sentiment analysis project. The goal of this project is to analyze movie reviews and determine their sentiment using machine learning techniques.
